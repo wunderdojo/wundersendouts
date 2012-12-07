@@ -31,7 +31,6 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
  * @version 1.0
 
  */
-
  include('wundersendoutswidget.php');
  add_action('widgets_init', array('wundersendoutsWidget','register_widget'));
 
